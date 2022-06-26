@@ -1,0 +1,16 @@
+name = "OstOverhaul"
+filename = "ostOverhaul-0.2.4-no-assets.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M11EPNE5/versions/0.2.4-1.19-0/ostOverhaul-0.2.4-no-assets.jar"
+hash-format = "sha1"
+hash = "ed9cb719d624b032a5a58a13eba75a9403f127b9"
+
+[option]
+optional = true
+
+[update]
+[update.modrinth]
+mod-id = "M11EPNE5"
+version = "mfaYTZc7"
