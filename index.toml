@@ -10,7 +10,7 @@ hash = "f9c4c77baa3828004ee54b8a4f2db2e88ed44a6237a493965bf551fac0fcb62d"
 
 [[files]]
 file = "README.md"
-hash = "d8bee1805abd99e173fca5de4e3cf243e0102df43d2833b519ee2121b314cf84"
+hash = "bfe76dc53ed4887a257f8b6e68fd5bdf5766452d4757f89bb9dddc5d7be757cc"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
@@ -120,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
-file = "mods/ost-overhaul.pw.toml"
-hash = "a30e8fb92e0dd79000170214dd93204d93c0ac8afb4aa440f9229fabb5c82416"
 metafile = true
 
 [[files]]
