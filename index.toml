@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+hash = "53ff2114be1495a1c5430efb741efeb04514f03a51afcfc741266d6b007866f1"
 
 [[files]]
 file = "LICENSE"
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/ost-overhaul.pw.toml"
-hash = "3252acbcf0d043212471fe4ce931eee29223b7df448bc18a959a96575af9a365"
+hash = "a30e8fb92e0dd79000170214dd93204d93c0ac8afb4aa440f9229fabb5c82416"
 metafile = true
 
 [[files]]

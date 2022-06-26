@@ -1,12 +1,12 @@
 name = "UAM"
 author = "lhvy"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e0ab3cb157aa05845cd414e84ad3b1020234469b8908058d9a6faebf4c7a5c63"
+hash = "077a6aa2af413071086437468917b49621eaeb1760bdc25f758894ffe15d3499"
 
 [versions]
 minecraft = "1.19"
