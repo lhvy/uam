@@ -1,9 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "43ad173e5e3b92a29c52ba9f7af4c9ba63bf2c57076ea83349967f37499dccef"
-metafile = true
+file = ".DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "LICENSE"
+hash = "f9c4c77baa3828004ee54b8a4f2db2e88ed44a6237a493965bf551fac0fcb62d"
+
+[[files]]
+file = "README.md"
+hash = "d8bee1805abd99e173fca5de4e3cf243e0102df43d2833b519ee2121b314cf84"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
