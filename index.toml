@@ -58,11 +58,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
@@ -114,12 +109,17 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "8a41adde1d2964c9efb8ca038a22fc3fa2552a354271849345322d06c34e0c7a"
+hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "be819142ebc814d4e8bcf7bd9a1c8896d2416126b33451f662912f260ac7804b"
 metafile = true
 
 [[files]]
@@ -150,9 +150,4 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
