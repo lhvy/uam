@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "ed88314399602cba2753171ecfa20f9ea02d5ce9938d351f6facaf4faf1d8c53"
+hash = "26894893b73719ef3dd79e4a8b11bf407f5bd7987679b41c1f01fd454e82dfc1"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/petowner.pw.toml"
-hash = "9a0f7c5a798f439af0430fa012b79d4ce58930174b22c26c8ed23d2db5708d21"
+hash = "720c9c3854dc1e841701469d4b420e825de713385a90df9f4ae7c1eecdb64455"
 metafile = true
 
 [[files]]

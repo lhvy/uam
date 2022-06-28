@@ -7,9 +7,6 @@ url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.19-1.5.0/Invento
 hash-format = "sha1"
 hash = "2647ba0eae487d84ba1b8c44b2095532a4a5aa8b"
 
-[option]
-optional = true
-
 [update]
 [update.modrinth]
 mod-id = "O7RBXm3n"
