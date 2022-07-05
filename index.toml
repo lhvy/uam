@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "5b6a86bcc8399502ee1c0f1d6cde8e32dd8f6e6996ed6fb5dcc55faf43a81610"
+hash = "ea71f8679ff436996c48a8ca94b083740acd82a268e79618f7823f5f507b187f"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "be819142ebc814d4e8bcf7bd9a1c8896d2416126b33451f662912f260ac7804b"
+hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "ef41b5291c373062962ea5bd2bc72a0c27a77742f32faf3bd8c911dcdc258e87"
+hash = "4f730ed9fd6b369757e075684c16b8fcf853c692aa9b2cc4d30038d37c086aee"
 metafile = true
 
 [[files]]
