@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "f9c4c77baa3828004ee54b8a4f2db2e88ed44a6237a493965bf551fac0fcb62d"
 
 [[files]]
-file = "README.md"
-hash = "bfe76dc53ed4887a257f8b6e68fd5bdf5766452d4757f89bb9dddc5d7be757cc"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
