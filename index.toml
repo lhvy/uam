@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "fa30c442ad77b30b45bb2153af5e49ea44b139bd3cabf713d3980f93fdd3c42b"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/petowner.pw.toml"
-hash = "720c9c3854dc1e841701469d4b420e825de713385a90df9f4ae7c1eecdb64455"
+hash = "29c7279244b6f5d17d26514aacf1c4e91c63b0cba6bba60d047422b16ce8b2c9"
 metafile = true
 
 [[files]]
