@@ -1,0 +1,13 @@
+name = "Death Counter"
+filename = "death-counter-2022.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7x0zk3YH/versions/uSoEvolJ/death-counter-2022.10.5.jar"
+hash-format = "sha1"
+hash = "886fae1a1b65e23d801fcdef47bc0c3e38b07181"
+
+[update]
+[update.modrinth]
+mod-id = "7x0zk3YH"
+version = "uSoEvolJ"

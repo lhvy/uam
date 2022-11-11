@@ -75,6 +75,11 @@ hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "f704966849e5672f58ce529dd00ab054f7a76d5f96920ad381542d084cbef836"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.pw.toml"
+hash = "918fef0b3cc50df329807cef74877b82e2050209f2d3418d8d2d863d56fd253f"
 metafile = true
 
 [[files]]
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
 metafile = true
 
 [[files]]
